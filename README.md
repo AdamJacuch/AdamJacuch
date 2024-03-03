@@ -9,14 +9,13 @@
 
 - 👯 I’m looking to collaborate on **game development**
 
-- 🤝 I’m looking for help with **game development**
-
 - 💬 Ask me about **robotics, java, Godot**
 
 - 📫 How to reach me **adamjacuch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/adam jacuch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adam jacuch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
