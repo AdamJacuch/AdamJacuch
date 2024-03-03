@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Jacuch</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif">
 
 - 🔭 I’m currently working on **FTC Robotics Controller**
 
