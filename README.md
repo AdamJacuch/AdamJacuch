@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adam Jacuch</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
 
 - 🔭 I’m currently working on **Neural Networks**
 
