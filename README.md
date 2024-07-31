@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adamjacuch@gmail.com**
 
-- 📄 More about me at [adamjacuch.com](adamjacuch.com)
+- 📄 More about me at [adamjacuch.com](https://adamjacuch.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
