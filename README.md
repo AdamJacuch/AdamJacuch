@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/625592/screenshots/3228999/2017-01-06.gif)](https://adamjacuch.com)
+[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://adamjacuch.com)
 <h1 align="center">Hi 👋, I'm Adam Jacuch</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
