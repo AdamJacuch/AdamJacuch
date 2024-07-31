@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/51be3e56e4b09edc5f81e74c/1551795556726-AYCIRFK3Z8SAZQ11RRF5/SciFi_LoaderBlue.gif)](https://adamjacuch.com)
+[![MasterHead](https://cdn.dribbble.com/users/625592/screenshots/3228999/2017-01-06.gif)](https://adamjacuch.com)
 <h1 align="center">Hi 👋, I'm Adam Jacuch</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
